@@ -14,17 +14,21 @@
     left:525px;
 }
 .navBar{
-    background-color:white;
+    background-color:black;
     position:absolute;
     top:435px;
     left:475px;
 }
 .navBar a{
-    color:black;
+    font-family: "Times New Roman";
+    color:#f6ff5a ;
 }
 #adBlurb{
-    color:black;
+    font-family: "Times New Roman";
+    text-align:center;
+    background-color:black;
+    color: #f6ff5a ;
     position:absolute;
-    top:650px;
-    left:300px;
+    top:625px;
+    left:150px;
 }

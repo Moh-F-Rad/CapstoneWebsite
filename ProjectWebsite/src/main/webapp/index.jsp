@@ -20,6 +20,6 @@
 <body>
 <br/>
 <img src="bodyBackground.jpg" alt="BodyB" id="BodyB"style="width:1350px;height:768px;">
-<p><h1 id="adBlurb">Delivering software solutions and expertise since 2018</h1></p>
+<p><h1 id="adBlurb">Delivering software solutions<br> and expertise <br>since 2018</h1></p>
 </body>
 </html>
